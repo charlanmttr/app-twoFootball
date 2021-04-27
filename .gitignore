@@ -11,3 +11,7 @@ web-build/
 
 # macOS
 .DS_Store
+
+#others
+/src/config/config.json
+/old
